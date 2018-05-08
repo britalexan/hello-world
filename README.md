@@ -1,2 +1,3 @@
 # hello-world
-test run
+
+I'm trying to learn new things for fun
